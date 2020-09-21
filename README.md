@@ -1,4 +1,4 @@
 # GoMoku
 
-## This is my first project in the course Aritifical Intelligence in Southern University of Science and Technology on 2019 fall.
+The work is done as the first project in CS303 Artifical Intelligence 2019 Autumn @ SUSTech
 
